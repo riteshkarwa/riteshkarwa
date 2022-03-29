@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riteshkarwa
 - 👀 I’m interested in learning new programing language anything CS
-- 🌱 I’m currently learning new ways to be build automation suite
+- 🌱 I’m currently learning new ways to build automation suite
 - 💞️ I’m looking to collaborate on anything fun and interesting
 - 📫 How to reach me riteshkarwa@yahoo.com
 
